@@ -208,7 +208,7 @@ Stay connected and explore more DevOps tutorials:
 
 * 🔗 [LinkedIn](https://linkedin.com/in/pravesh-sudha)
 * 🐦 [Twitter/X](https://x.com/praveshstwt)
-* 📺 [YouTube](https://youtube.com/@praveshsudha)
+* 📺 [YouTube](https://youtube.com/@pravesh-sudha)
 * 🌐 [My Blog](https://blog.praveshsudha.com)
 
 ---
