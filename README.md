@@ -206,8 +206,8 @@ Read the full blog post with detailed explanation here:
 
 Stay connected and explore more DevOps tutorials:
 
-* 🔗 [LinkedIn](https://linkedin.com/in/praveshsudha)
-* 🐦 [Twitter/X](https://twitter.com/praveshsudha)
+* 🔗 [LinkedIn](https://linkedin.com/in/pravesh-sudha)
+* 🐦 [Twitter/X](https://x.com/praveshstwt)
 * 📺 [YouTube](https://youtube.com/@praveshsudha)
 * 🌐 [My Blog](https://blog.praveshsudha.com)
 
